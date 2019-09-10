@@ -32,16 +32,16 @@
       <div class="co llapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.html">Home</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/">Home</a>
           </li>
          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="activities.html">Activities</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/activities.html">Activities</a>
           </li>
          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="reflections.html">Reflections</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita2.herokuapp.com/">Reflections</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="certificates.html">Learnings</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/certificates.html">Learnings</a>
           </li>
         </ul>
       </div>
@@ -80,8 +80,7 @@
 		product, site, or brand in a similar way. Creating personas will help you to understand your users’ needs, experiences, behaviours and goals.</p>
 		
 		<p> Here is my created persona for our group project in USERDES: </p>
-		<img class="rounded-corner" src="img/persona2.jpg" align="center" width="699" height="400" alt="">
-		<img class="rounded-corner" src="img/persona3.jpg" align="center" width="700" height="200" alt="">
+		<img class="rounded-corner" src="img/persona2.JPG" align="center" width="699" height="400" alt="">
 
 		
 	</div>
