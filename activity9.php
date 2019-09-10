@@ -32,16 +32,16 @@
       <div class="co llapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.html">Home</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/">Home</a>
           </li>
          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="activities.html">Activities</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/activities.html">Activities</a>
           </li>
          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="reflections.html">Reflections</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita2.herokuapp.com/">Reflections</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="certificates.html">Learnings</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/certificates.html">Learnings</a>
           </li>
         </ul>
       </div>
@@ -57,7 +57,7 @@
 	<br>
 	<br>
 	<br>
-	<img class="rounded-corner" src="img/12columngrid.jpg" align="center" width="600" height="400" alt="">
+	<img class="rounded-corner" src="img/12columngrid.JPG" align="center" width="600" height="400" alt="">
 	<br>
 
 	<!-- Masthead Heading -->
