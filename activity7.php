@@ -32,16 +32,16 @@
       <div class="co llapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.html">Home</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/">Home</a>
           </li>
          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="activities.html">Activities</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/activities.html">Activities</a>
           </li>
          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="reflections.html">Reflections</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita2.herokuapp.com/">Reflections</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="certificates.html">Learnings</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita-main.herokuapp.com/certificates.html">Learnings</a>
           </li>
         </ul>
       </div>
@@ -84,7 +84,7 @@
 		<p><b>3. Finally, create your own design of the passage</b></p>
 		<p> Here's my created design:  </p>
 		
-		<img class="rounded-corner" src="img/invicard.png" align="center" width="450" height="400" alt="">
+		<img class="rounded-corner" src="img/invicard.PNG" align="center" width="450" height="400" alt="">
 		
 	</div>
 	</section>
